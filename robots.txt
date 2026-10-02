@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxmcneil.github.io/solaris/sitemap.xml
